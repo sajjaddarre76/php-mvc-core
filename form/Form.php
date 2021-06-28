@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\form;
-use app\core\Model;
+namespace sajjaddarre76\phpmvc\form;
+use sajjaddarre76\phpmvc\Model;
 
 class Form
 {

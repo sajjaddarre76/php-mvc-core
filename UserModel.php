@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace sajjaddarre76\phpmvc;
 
 
-use app\core\db\DbModel;
+use sajjaddarre76\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace sajjaddarre76\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use sajjaddarre76\phpmvc\db\Database;
+use sajjaddarre76\phpmvc\db\DbModel;
 use app\models\User;
 
 class Application

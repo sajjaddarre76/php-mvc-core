@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "sajjaddarre76\\phpmvc": "."
+            "sajjaddarre76\\phpmvc\\": "."
         }
     }
 }
